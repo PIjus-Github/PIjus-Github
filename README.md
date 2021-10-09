@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm **PIjus**, a programmer making stuff.
+
 https://github-readme-stats.vercel.app/api/top-langs/?username=Peeeaaayus
 
 <!--
