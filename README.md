@@ -2,7 +2,7 @@
 
 I'm **PIjus**, a programmer making stuff.
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Peeeaaayus
+![Statistics](https://i.imgur.com/czBm1Is.png)
 
 <!--
 **Peeeaaayus/Peeeaaayus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
