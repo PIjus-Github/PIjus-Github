@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello! 👋
 
 I'm **PIjus**, a programmer making stuff.
 
-![Statistics](https://i.imgur.com/czBm1Is.png)
+![Statistics 2](https://i.imgur.com/4i6OZay.png)
 
 <!--
 **Peeeaaayus/Peeeaaayus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
