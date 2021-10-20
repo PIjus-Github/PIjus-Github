@@ -4,8 +4,6 @@ I'm **PIjus**, a programmer making stuff.
 
 he/him
 
-![Statistics 3](https://i.imgur.com/SQh3yHj.png)
-
 <!--
 **Peeeaaayus/Peeeaaayus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
